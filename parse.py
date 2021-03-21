@@ -20,7 +20,5 @@ def getInfo():
 
 
 
-getInfo()
-
 
 
